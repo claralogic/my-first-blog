@@ -25,7 +25,7 @@ SECRET_KEY = 'l3iten*3tzhth8y3+ivlw8%l-%#l9h*o1h$i26z*23#a0bn@ad'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'claralogic.pythonanywhere.com']
 
 
 # Application definition
